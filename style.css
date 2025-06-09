@@ -3,20 +3,27 @@ body{
 }
 
 .part1text1{
-    background-color: antiquewhite;
     text-align: center;
     align-items: center;
 }
+.part2text2{
+        text-align: center;
+        align-items: center;
+}
+
+.part3text3{
+        text-align: center;
+        align-items: center;
+}
 
 .part4text4{
-    background-color: antiquewhite;
     text-align: center;
     align-items: center;
+    
 }
 
 
 .part5text5{
-    background-color: antiquewhite;
     text-align: center;
     align-items: center;
 }
@@ -26,6 +33,9 @@ h1{
     align-self: center;
 }
 
-a{
-    color:background-color: antiquewhite;
-}
+#Cravinho{
+    width: px200;
+    height: auto;
+    display: block;
+    margin: auto;
+
